@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.22)   
 
 # Declare our project
-project("Subcombinator") 
+project("New_project") 
 
 find_package(Catch2 REQUIRED)
 
